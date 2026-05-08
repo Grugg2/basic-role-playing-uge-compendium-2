@@ -1,11 +1,16 @@
-# basic-role-playing-uge-compendium
-A module for Foundry VTT implementation of Chaosium's BRP.  This contains compendia for the BRP System for Foundry VTT(https://github.com/Genii-Locorum/brp).  This module is for version 12.1.30 or later of the BRP implementation.
+# BRP UGE Compendium 2 - Isla de la Grieta
 
-BRP: Universal Game Engine Notice This product is licensed under the ORC License held in the License of Congress at TX000 [number tbd] and available online at various locations including www.chaosium.com/orclicense, www.azoralaw.com/orclicense, www.gencon.com/orclicense and others. All warranties are disclaimed as set forth therein. This product is the original work of Chaosium.
+Ready-to-use NPCs for the 2006 stranded-on-a-tropical-island survival campaign.
 
-If you use our(Chaosium's) ORC Content, please also credit us as follows:
+## Current Contents
+- **Animals** (8 NPCs)
+- Fish & Sea Life (coming soon)
+- Passengers & Survivors (coming soon)
 
-![image](https://github.com/user-attachments/assets/4aaa2711-61f2-420a-b6e9-98df918a056d)
+## How to Use
+1. Download the latest release zip
+2. Extract into your Foundry `Data/modules` folder
+3. Activate the module
+4. Import the compendiums you need
 
-
-Basic Role Playing for Foundry VTT
+All NPCs are balanced for Basic Role-Playing (Chaosium) and designed specifically for the Isla de la Grieta setting (tropical island, 2006 era, Rift anomaly).

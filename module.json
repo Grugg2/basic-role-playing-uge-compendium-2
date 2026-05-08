@@ -1,8 +1,8 @@
 {
   "id": "brp-uge-compendium-2",
   "title": "BRP UGE Compendium 2 - Isla de la Grieta",
-  "description": "Ready-to-use NPCs for the 2006 stranded-on-a-tropical-island campaign: Animals, Fish, and Passengers from Flight 227.",
-  "version": "0.1.0",
+  "description": "Ready-to-use NPCs and items for the 2006 stranded-on-a-tropical-island campaign: Animals, Fish, Passengers, and Loot.",
+  "version": "0.2.0",
   "compatibility": {
     "minimum": "11",
     "verified": "13"
@@ -36,6 +36,13 @@
       "label": "Passengers & Survivors of Flight 227",
       "path": "packs/passengers",
       "type": "Actor",
+      "system": "brp"
+    },
+    {
+      "name": "brp-uge-loot",
+      "label": "Loot & Scavenged Items",
+      "path": "packs/loot",
+      "type": "Item",
       "system": "brp"
     }
   ],

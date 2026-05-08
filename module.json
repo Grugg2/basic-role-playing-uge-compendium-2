@@ -20,21 +20,21 @@
     {
       "name": "brp-uge-animals",
       "label": "Animals of Isla de la Grieta",
-      "path": "packs/brp-uge-animals.db",
+      "path": "packs/animals",
       "type": "Actor",
       "system": "brp"
     },
     {
       "name": "brp-uge-fish",
       "label": "Fish & Sea Life of Isla de la Grieta",
-      "path": "packs/brp-uge-fish.db",
+      "path": "packs/fish",
       "type": "Actor",
       "system": "brp"
     },
     {
       "name": "brp-uge-passengers",
       "label": "Passengers & Survivors of Flight 227",
-      "path": "packs/brp-uge-passengers.db",
+      "path": "packs/passengers",
       "type": "Actor",
       "system": "brp"
     }
